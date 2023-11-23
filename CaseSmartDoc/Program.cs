@@ -6,8 +6,7 @@ namespace CaseSmartDoc
     {
         public static void Main(string[] args)
         {
-            
-            
+            Console.ReadLine();
         }
     }
 }
